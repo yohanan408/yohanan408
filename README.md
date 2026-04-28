@@ -24,4 +24,4 @@ I recently analyzed social media usage in teenagers and discovered that social m
 *   🌱 I’m currently learning: **Advanced Neural Networks**
 *   💬 Ask me about: **Causal inference, logic traps, and why "therefore" is the best word in the English language.**
 
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Portfolio](YOUR_GITHUB_LINK_HERE)
+[[LinkedIn](YOUR_LINKEDIN_URL_HERE)](https://www.linkedin.com/in/john-njuguna-a446542a5/?skipRedirect=true) | [[Portfolio](YOUR_GITHUB_LINK_HERE)](https://github.com/yohanan408)
