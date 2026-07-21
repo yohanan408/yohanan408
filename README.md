@@ -1,27 +1,24 @@
-# Hi, I'm John 👋
+# 💫 About Me:
+🔭 I’m currently working on: Machine Learning Specialization<br>🌱 I’m currently learning: Advanced Neural Networks<br>💬 Ask me about: Causal inference, logic traps, and why "therefore" is the best word in the English language.
 
-### 📊 Final Year Statistics Student | Data Scientist in the Making
-I bridge the gap between rigorous statistical theory and actionable data insights. Currently finishing my B.Sc. in Statistics while mastering Machine Learning through the ALX Data Science Fellowship.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Njuguna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yehohhannan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jn263954@gmail.com) 
+
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yohanan408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yohanan408&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yohanan408&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yohanan408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yohanan408&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yohanan408&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Technical Arsenal
-*   **Languages:** Python, SQL, R
-*   **Tools:** Pandas, NumPy, Scikit-Learn, Power BI
-*   **Domain Expertise:** Causal Inference, Predictive Modeling, data visualization and storytelling, building data pipelines, statistical analysis
-
----
-
-### 💡 Featured Project: The "social media impacts"
-I recently analyzed social media usage in teenagers and discovered that social media isn't the direct cause of depression—**sleep displacement is**.
-*   **Key Finding:** Discovered that clinical depression is not strongly correlated with perceived addiction to social media. Most depressed teens reported low addiction scores, indicating that physiological damage occurs before psychological awareness.
-*   **Outcome:** Built a Logistic Regression model that identified a 2.30 predictive weight for the "Recovery Gap," proving that sleep displacement increases depression risk.
-
----
-
-### 📫 Let's Connect
-*   🔭 I’m currently working on: **Machine Learning Specialization**
-*   🌱 I’m currently learning: **Advanced Neural Networks**
-*   💬 Ask me about: **Causal inference, logic traps, and why "therefore" is the best word in the English language.**
-
-[[LinkedIn](YOUR_LINKEDIN_URL_HERE)](https://www.linkedin.com/in/john-njuguna-a446542a5/?skipRedirect=true) | [[Portfolio](YOUR_GITHUB_LINK_HERE)](https://github.com/yohanan408)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
