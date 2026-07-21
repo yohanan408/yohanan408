@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&background=161B22&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
+https://capsule-render.vercel.app/api?
 # 💫 About Me:
 🔭 I’m currently working on: Machine Learning Specialization<br>🌱 I’m currently learning: Advanced Neural Networks<br>💬 Ask me about: Causal inference, logic traps, and why "therefore" is the best word in the English language.
 
