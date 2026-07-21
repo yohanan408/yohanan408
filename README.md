@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/yohanan408/github-readme-activity-graph)
+[![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yohanan408&theme=merko)](https://github.com/yohanan408/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yohanan408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
