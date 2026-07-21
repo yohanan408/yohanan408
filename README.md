@@ -1,6 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&repeat=false&color=007ACC&multiline=true&height=200&width=1000&lines=Hi+there%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
-
-
 # 💫 About Me:
 🔭 I’m currently working on: Machine Learning Specialization<br>🌱 I’m currently learning: Advanced Neural Networks<br>💬 Ask me about: Causal inference, logic traps, and why "therefore" is the best word in the English language.
 
