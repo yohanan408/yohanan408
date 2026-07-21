@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Building+cool+things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Hi there,\nIt's John)
 
 # 💫 About Me:
 🔭 I’m currently working on: Machine Learning Specialization<br>🌱 I’m currently learning: Advanced Neural Networks<br>💬 Ask me about: Causal inference, logic traps, and why "therefore" is the best word in the English language.
