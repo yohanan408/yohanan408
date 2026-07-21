@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&width=435&lines=Hi+there%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&width=1000&lines=Hi+there%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
 
 
 # 💫 About Me:
