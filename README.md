@@ -9,10 +9,13 @@
 ## 🌐 Socials:
 <p align="left">
   <a href="mailto:jn263954@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?" alt="Email" />
+  </a>
+  <a href="https://x.com/yehohhannan">
+    <img src="https://img.shields.io/badge/X-black.svg?" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/john-njuguna-a446542a5/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?" alt="LinkedIn" />
   </a>
 </p> 
 
