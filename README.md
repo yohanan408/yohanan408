@@ -20,9 +20,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yohanan408&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Snake Contribution:
-<img src="https://yohanan408.com" alt="Contribution Snake" />
-
-
+<p align="center">
+  <img src="https://github.com/yohanan408" alt="Contribution Snake" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yohanan408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
