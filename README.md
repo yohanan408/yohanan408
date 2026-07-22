@@ -19,7 +19,7 @@
 ![](https://streak-stats.demolab.com/?user=yohanan408&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yohanan408&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Snake Contribution:
+# Contribution Snake:
 <p align="center">
   <img src="https://github.com/yohanan408/yohanan408/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
