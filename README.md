@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=WELCOME&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&center=true&section=header&text=WELCOME&fontSize=90)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&center=true&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
 
