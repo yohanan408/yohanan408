@@ -24,6 +24,7 @@
   <img src="https://github.com/yohanan408/yohanan408/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
+> "Data is the new oil. It's valuable, but if unrefined it cannot really be used." — Michael Palmer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yohanan408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
