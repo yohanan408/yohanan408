@@ -10,7 +10,7 @@
 
 ### Hi there! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=10&repeat=false&color=333333&center=false&vCenter=true&multiline=true&width=900&height=70&lines=I%27m+John%2C+a+Statistics+and+Programming+graduate-in-training+who+builds+analytical+solutions+using+data;analysis%2C+statistical+modelling%2C+and+machine+learning." alt="Intro">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=10&repeat=false&color=333333&center=false&vCenter=true&multiline=true&width=900&height=70&lines=I%27m+John%2C+a+Statistics+and+Programming+professional+who+builds+analytical+solutions+using+data;analysis%2C+statistical+modelling%2C+and+machine+learning." alt="Intro">
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=14&pause=10&repeat=false&color=666666&center=false&vCenter=true&width=600&height=30&lines=Nairobi%2C+Kenya+%C2%B7+Open+to+entry-level+opportunities" alt="Location">
 # 💫 About Me:
