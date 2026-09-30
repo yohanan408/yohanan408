@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=JOHN%20NJUGUNA&fontSize=44&fontColor=B8860B&fontAlignY=35&desc=DATA%20ANALYST%20%C2%B7%20BUSINESS%20%26%20COMMERCIAL%20ANALYTICS&descSize=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&center=true&section=header&text=WELCOME&fontSize=90)
 
 <p align="center">Statistics &amp; Programming | Python · SQL · Power BI · Excel</p>
 
