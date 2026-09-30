@@ -1,7 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=JOHN%20NJUGUNA&fontSize=44&fontColor=B8860B&fontAlignY=35&desc=DATA%20ANALYST%20-%20BUSINESS%20and%20COMMERCIAL%20ANALYTICS&descSize=18&descAlignY=60)
-<p align="center">Statistics &amp; Programming | Python · SQL · Power BI · Excel</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=JOHN%20NJUGUNA&fontSize=44&fontColor=111111&fontAlignY=60" alt="header">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=19&pause=10&repeat=false&color=B8860B&center=true&vCenter=true&width=800&height=40&lines=DATA+ANALYST+%C2%B7+BUSINESS+%26+COMMERCIAL+ANALYTICS" alt="Role">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=10&repeat=false&color=555555&center=true&vCenter=true&width=800&height=30&lines=Statistics+%26+Programming+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Skills">
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&center=true&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+a+Statistics+and+Programming+professional;who+builds+analytical+solutions+using+data+analysis%2C;statistical+modelling%2C+and+machine+learning.)
+---
+
+### Hi there! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=10&repeat=false&color=333333&center=false&vCenter=true&multiline=true&width=900&height=70&lines=I%27m+John%2C+a+Statistics+and+Programming+graduate-in-training+who+builds+analytical+solutions+using+data;analysis%2C+statistical+modelling%2C+and+machine+learning." alt="Intro">
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=14&pause=10&repeat=false&color=666666&center=false&vCenter=true&width=600&height=30&lines=Nairobi%2C+Kenya+%C2%B7+Open+to+entry-level+opportunities" alt="Location">
 # 💫 About Me:
 # John Njuguna
 
