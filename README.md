@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&center=true&section=header&text=WELCOME&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=JOHN%20NJUGUNA&fontSize=44&fontColor=B8860B&fontAlignY=35&desc=DATA%20ANALYST%20%C2%B7%20BUSINESS%20%26%20COMMERCIAL%20ANALYTICS&descSize=18&descAlignY=60)
+
+<p align="center">Statistics &amp; Programming | Python · SQL · Power BI · Excel</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&center=true&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+a+Statistics+and+Programming+graduate-in-training;who+builds+analytical+solutions+using+data+analysis%2C;statistical+modelling%2C+and+machine+learning.)
 # 💫 About Me:
