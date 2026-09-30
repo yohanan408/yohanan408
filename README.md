@@ -3,7 +3,46 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&repeat=false&color=007ACC&multiline=true&height=200&width=1000&center=true&lines=Hi+there%F0%9F%91%8B%2C;It's+John%2C+An+aspiring+data+scientist+and+analytical+thinker)
 
 # 💫 About Me:
-🔭 I’m currently working on: Machine Learning Specialization<br>🌱 I’m currently learning: Advanced Neural Networks<br>💬 Ask me about: Causal inference, logic traps, and why "therefore" is the best word in the English language.
+# John Njuguna
+
+**Data Analyst | Business & Commercial Analytics | Statistics & Programming**
+
+I build data-driven solutions using **SQL, Python, Power BI, Excel, R, and machine learning**.
+
+My projects focus on turning messy data into analysis-ready datasets, business insights, statistical models, and deployable analytical applications.
+
+### What I Work With
+
+* **Analytics:** SQL, Python, Pandas, NumPy, Excel, Power BI
+* **Statistics:** Regression, statistical modelling, hypothesis testing, causal/mediation analysis
+* **Machine Learning:** scikit-learn, classification, model evaluation, cross-validation, feature engineering
+* **Data Engineering:** ETL, data-quality validation, FastAPI, Docker, Git/GitHub
+* **Deployment:** Streamlit, FastAPI, Docker
+
+### Selected Projects
+
+**[US Superstore ML Pipeline](https://github.com/yohanan408/us-superstore-ml-pipeline)**
+End-to-end e-commerce analytics and machine-learning pipeline combining a FastAPI inference service, Streamlit dashboard, automated testing, Docker, and financial-risk classification.
+
+**[Socioeconomic & Hypertension Analysis](https://github.com/yohanan408/socioeconomic-hypertension-mediators)**
+Statistical analysis of **253,680 CDC BRFSS records** using multivariate logistic regression, parametric mediation analysis, and an interactive Streamlit simulation.
+
+**[Yahoo Stock Prediction Pipeline](https://github.com/yohanan408/yahoo-stock-pipeline)**
+R-based financial time-series pipeline covering data-quality controls, feature engineering, changepoint detection, technical indicators, and model comparison.
+
+**[Logistics Data Cleaning — MySQL](https://github.com/yohanan408/logistics-data-cleaning-mysql)**
+SQL data-cleaning workflow using window functions, multi-format date parsing, and outlier detection.
+
+### Currently Seeking
+
+Entry-level opportunities in:
+
+**Data Analytics • Business Analytics • Commercial Analytics • Reporting • Data Science**
+
+📍 Nairobi, Kenya
+🔗 [LinkedIn](https://www.linkedin.com/in/john-njuguna-a446542a5)
+💻 [GitHub](https://github.com/yohanan408)
+
 
 
 ## 🌐 Socials:
