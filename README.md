@@ -38,8 +38,8 @@ End-to-end e-commerce analytics and machine-learning pipeline combining a FastAP
 **[Socioeconomic & Hypertension Analysis](https://github.com/yohanan408/socioeconomic-hypertension-mediators)**
 Statistical analysis of **253,680 CDC BRFSS records** using multivariate logistic regression, parametric mediation analysis, and an interactive Streamlit simulation.
 
-**[Yahoo Stock Prediction Pipeline](https://github.com/yohanan408/yahoo-stock-pipeline)**
-R-based financial time-series pipeline covering data-quality controls, feature engineering, changepoint detection, technical indicators, and model comparison.
+**[Yahoo Stock Returns: Time-Series Analysis and Model Benchmarking.](https://github.com/yohanan408/yahoo-stock-pipeline)**
+R project testing whether four models can forecast daily stock returns better than a naive baseline. Includes change-point analysis, rolling-origin evaluation and a look-ahead leakage fix.
 
 **[Logistics Data Cleaning — MySQL](https://github.com/yohanan408/logistics-data-cleaning-mysql)**
 SQL data-cleaning workflow using window functions, multi-format date parsing, and outlier detection.
